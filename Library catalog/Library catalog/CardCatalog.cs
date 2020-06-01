@@ -29,15 +29,29 @@ namespace Library_catalog
 
             long isbn;
             string isbnInput;
+            bool check;
             do
             {
+                check = false;
                 do
                 {
-                    Console.Write("Enter the 13 digit ISBN: ");
-                    isbnInput = Console.ReadLine();
-                } while (isbnInput.Length!= 13);
-            } while (!long.TryParse(isbnInput, out isbn));
-            
+                    do
+                    {
+                        Console.Write("Enter the 13 digit ISBN: ");
+                        isbnInput = Console.ReadLine();
+                    } while (isbnInput.Length != 13);
+                } while (!long.TryParse(isbnInput, out isbn));
+
+                foreach (Book book in bookList)
+                {
+                    if (isbn == book.ISBN)
+                    {
+                        check = true;
+                    }
+                }
+            } while (check);
+
+
             Console.Write("Enter the date: ");
             string date = Console.ReadLine();
 

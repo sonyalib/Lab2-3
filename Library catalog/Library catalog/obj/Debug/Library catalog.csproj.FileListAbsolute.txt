@@ -3,9 +3,3 @@
 /Users/macbook/RiderProjects/Library catalog/Library catalog/obj/Debug/Library catalog.csprojAssemblyReference.cache
 /Users/macbook/RiderProjects/Library catalog/Library catalog/obj/Debug/Library_catalog.exe
 /Users/macbook/RiderProjects/Library catalog/Library catalog/obj/Debug/Library_catalog.pdb
-C:\Users\Соня\Downloads\Library_catalog (extract.me)\Library catalog\Library catalog\bin\Debug\Library_catalog.exe
-C:\Users\Соня\Downloads\Library_catalog (extract.me)\Library catalog\Library catalog\bin\Debug\Library_catalog.pdb
-C:\Users\Соня\Downloads\Library_catalog (extract.me)\Library catalog\Library catalog\obj\Debug\Library catalog.csprojAssemblyReference.cache
-C:\Users\Соня\Downloads\Library_catalog (extract.me)\Library catalog\Library catalog\obj\Debug\Library catalog.csproj.CoreCompileInputs.cache
-C:\Users\Соня\Downloads\Library_catalog (extract.me)\Library catalog\Library catalog\obj\Debug\Library_catalog.exe
-C:\Users\Соня\Downloads\Library_catalog (extract.me)\Library catalog\Library catalog\obj\Debug\Library_catalog.pdb
